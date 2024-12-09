@@ -206,3 +206,5 @@ Q85: What is the difference between the Gaussian Error Linear Unit (GELU) and th
 Q86: How is Principal Component Analysis used for Multivariate Anomaly Detection?
 
 Q87: How is AutoEncoder used for Dimensionality Reduction (onto Latent Space)? 
+
+Q88: What is the loss function used in Variational AutoEncoders?
