@@ -1,3 +1,5 @@
+**These questions were originally posted on my [threads](https://www.threads.net/@aiinminutes) account along with answers.**
+
 Q1: How do you calculate mean squared error in a vectorized way?
 
 Q2: What is cosine similarity? What does it measure? How is it different from Euclidean distance? In what scenarios is it a better measure for comparison than Euclidean distance?
@@ -237,7 +239,7 @@ Q101: How do shrinkage methods address multi-collinearity in linear regression?
 
 Q102: How are single linkage and complete linkage different in the context of Agglomerative clustering
 
-Q103: Question-103: Why do we perform eigenvalue decomposition of the sample covariance matrix to identify principal components?
+Q103: Why do we perform eigenvalue decomposition of the sample covariance matrix to identify principal components?
 
 Q104: Do all orthogonal matrices perform rotational transformation preserving norm and orientation?
 
@@ -258,3 +260,13 @@ Q111: If A is a matrix of any shape with all real elements, how are its singular
 Q112:  How is the greedy search decoding strategy different from the beam search decoding strategy?
 
 Q113: Why does Gini impurity favor the majority class in classification compared to entropy?
+
+Q114: How is the concept of Shapley values applied for local explainability of a multiple linear regression model?
+
+Q115: What is Leave-One-Out Cross Validation? In this context, what is Predictive R-squared (PRESS-based), and how does it differ from the Coefficient of Determination?
+
+Q116: What are model counterfactuals?If you train a classification model to predict whether to deny credit, and then generate a model counterfactual for a person (to identify the smallest changes in input features needed to reverse the prediction to grant credit), does it imply that these changes cause the credit approval?
+
+Q117: What is Empirical Cumulative Distribution Function? Why is it always monotonically non-decreasing?
+
+Q118: Given a binary user-item interaction matrix A of size m (num of users) x n (num of items), where 1 represents an interaction between a user and an item, and 0 represents the lack of interaction, what does the matrix AA' represent? What about A'A?
